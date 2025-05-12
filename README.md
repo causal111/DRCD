@@ -137,7 +137,7 @@ It serves as a supplementary tool to confirm the applicability of DRCD to your d
 
 ## Comparison Methods
 
-This repository incorporates the following comparison methods: some by obtaining their official implementations, and one implemented by ourselves:
+This code package incorporates the following comparison methods: some by obtaining their official implementations, and one implemented by ourselves:
 
 - **LiM** (Causal discovery for linear mixed data)  
   - [Paper](https://proceedings.mlr.press/v177/zeng22a.html) | [Repository](https://github.com/cdt15/lingam)  
