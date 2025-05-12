@@ -1,0 +1,10 @@
+CairoSVG==2.7.1
+densratio==0.3.0
+matplotlib==3.10.1
+numpy==2.2.5
+pandas==2.2.3
+scikit_learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
+tqdm==4.67.1
+ucimlrepo==0.0.7
